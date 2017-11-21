@@ -13,6 +13,7 @@ SPRINT 1:	-ACABADO-
 	# Implementacion incial de las clases principales (constructores) (Responsable Mohssin Nagib Najim)
 	# Creacion de las interfaces para los diferentes usuarios una vez inicien sesión en el sistema (Responsable David Ricote)
 	# Creación de API swagger para departamentos, profesores y alumnos. (Responsable Pablo Calvo)
+	# Se ha creado la interfaz de inicio, visualización de grados y asignaturas, inicio de sesión, login y alta de usuarios. (Responsable Paula Dominguez)
 	
 
 
